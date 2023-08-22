@@ -3,10 +3,10 @@ Welcome to Bankist Online, where modern banking meets seamless digital experienc
 
  
 just looking for UserName and Password below (when login with UserName use sort form)
-               Username    password
-jay vekariya - jv          1111
-Kartik Vaghasiya - kv      2222 
-Sidhdhant Chavadiya - sc   3333 
-Apurv Akabari - aa         4444
+       
+ 1(jay vekariy -Username (jv)  password (1111)]
+2(  (kv) -(2222)] 
+  3 ((sc)-(3333)] 
+4 ( (aa) -(4444)]
 
 
