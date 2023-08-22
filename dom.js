@@ -239,6 +239,18 @@ btnClose.addEventListener('click',function(e){
 });
 
 
+//add current date in 
+let curentDate=document.getElementById('updateTime');
+ function add(){
+  setInterval(()=>{
+    let dt=new Date();
+    dt.setDate(dt.getDate());
+    curentDate.innerHTML=dt.toLocaleDateString();
+  },1000)
+ };
+add();
+
+
 //btn shorting 
 let sorted=false;
 btnSort.addEventListener('click',function(e){
